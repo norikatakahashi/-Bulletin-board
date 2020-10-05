@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>mission_5-1</title>
+    <title>Bulletin-board</title>
 </head>
 <body>
     
